@@ -1,0 +1,115 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.whatsappbtn{
+    border: 1px solid #27ae60;
+    padding: 10px 15px;
+    color: #27ae60;
+
+}
+
+.whatsappbtn i{
+    color: #27ae60;
+}
+
+.whatsappbtn:hover{
+    border: 1px solid #27ae60;
+}
+
+.call{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    color: white;
+}
+
+.bannerContent{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent ul{
+    list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContent ul li i{
+    color: #0ACEFE;
+}
+
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+
+.bannerContentBtn button:first-child{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    color: white;
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerForm button{
+    width: 100%;
+    padding: 10px 0px;
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    border: none;
+    color: white;
+}
+
+.highlights-section{
+    background-color: #F7FAFF;
+
+}
+
+.highlights-section h2{
+    color: #0A2134;
+    font-size:36px ;
+    font-weight: 500;
+}
+
+.highlights-section p{
+    font-size: 16px;
+}
+
+.highlightsItems h4{
+    font-size: 20px;
+}
+
+#mobileMenu ul li a{
+    font-weight: bold;
+    margin-right: 15px;
+    color: #0ACEFE;
+}
+
+.toTabSystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: black;
+    border-bottom: 2px solid blue;
+    border-radius: 0px;
+    background-color: #0Acefe
+}
+
+.bannerContent h1 span{
+    color: #2699FB;
+    background: url("../images/Vector\ 63.png") no-repeat bottom;
+}
+
+.counterSection{
+    font-size: 30px;
+    font-weight: 200;
+    color: #2699FB;
+}
